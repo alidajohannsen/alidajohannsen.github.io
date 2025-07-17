@@ -22,7 +22,7 @@ Work experience
 * 2022 - present, Scientific employee at TUM School of Management, Center for Energy Markets
 * 2020, Economic Research Intern at Munich Re
 * 2018-2019, Research Assistant at Ludwig-Maximilians-University,
-    *Department of Economics: Organizations and Firms, Personnel Economics, Contract Theory, Applied Microeconomics 
+    * Department of Economics: Organizations and Firms, Personnel Economics, Contract Theory, Applied Microeconomics 
   
 Skills
 ======
@@ -38,7 +38,7 @@ Working Papers
 * Alida Johannsen, Sebastian Schwenen. Temperature Shocks, Cash Windfalls and Efficiency. (in progress)
 * Alida Johannsen, Sebastian Schwenen. Where to plant power plants? Nodal pricing and locational investment decision. (in progress)
 * Chloe Le Coq, Alida Johannsen, Sebastian Schwenen. Nuclear and Renewables: Friends or Foes? (in progress)
-* Alida Johannsen (2022). Agricultural-induced deforestation emissions and drivers of agricultural land use change in Indonesia. LUP Student Paper Publication. #https://lup.lub.lu.se/student-papers/search/publication/9088988 
+* Alida Johannsen (2022). Agricultural-induced deforestation emissions and drivers of agricultural land use change in Indonesia. LUP Student Paper Publication. https://lup.lub.lu.se/student-papers/search/publication/9088988 
   
   
 Talks
