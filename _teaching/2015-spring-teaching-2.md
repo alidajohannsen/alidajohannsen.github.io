@@ -4,8 +4,8 @@ collection: teaching
 type: "Master Course"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "TUM, School of Management"
-date: Since 2023
-location: "Summer Semester"
+#date: Since 2023
+location: "Since 2023, Summer Semester"
 ---
 
 In cooperation with Stadtwerke München (SWM). 
