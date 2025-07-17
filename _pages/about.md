@@ -24,6 +24,6 @@ This year we might cross paths here
 
 Education
 ======
-2021-2022, 2nd year of Double Degree M.Sc. in Economic Development and Globalization, Lund University, Sweden 
-2020-2021, 1st year Double Degree M.Sc. in Economic Development and Globalization, University of Groningen, The Netherlands 
-2016-2019, Bachelor of Science in Economics at Ludwig-Maximilians-University, Germany
+- 2021-2022, 2nd year of Double Degree M.Sc. in Economic Development and Globalization, Lund University, Sweden 
+- 2020-2021, 1st year Double Degree M.Sc. in Economic Development and Globalization, University of Groningen, The Netherlands 
+- 2016-2019, Bachelor of Science in Economics at Ludwig-Maximilians-University, Germany
