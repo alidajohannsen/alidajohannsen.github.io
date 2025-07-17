@@ -32,17 +32,34 @@ Skills
 * QGIS
   
 
-Publications
+Working Papers
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  #<ul>{% for post in site.publications reversed %}
+  #  {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
+*Alida Johannsen, Sebastian Schwenen. Temperature Shocks, Cash Windfalls and Efficiency. (in progress)
+*Alida Johannsen, Sebastian Schwenen. Where to plant power plants? Nodal pricing and locational investment decision. (in progress)
+*Chloe Le Coq, Alida Johannsen, Sebastian Schwenen. Nuclear and Renewables: Friends or Foes? (in progress)
+*Alida Johannsen (2022). Agricultural-induced deforestation emissions and drivers of agricultural land use change in Indonesia. LUP Student Paper Publication. #https://lup.lub.lu.se/student-papers/search/publication/9088988 
+  
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
+
+*2025
+11/2024: Presentation at 41st USAEE Conference, Baton Rouge, LA, USA. Topic: Nodal Pricing and Location Investment Decision. (Peer-reviewed)
+02/2024: Presentation at TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany. Topic: Cash windfall and Clean Investment
+*2024
+  *11/2024: Presentation at 41st USAEE Conference, Baton Rouge, LA, USA. Topic: Nodal Pricing and Location Investment Decision. (Peer-reviewed)
+02/2024: Presentation at TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany. Topic: Cash windfall and Clean Investment
+
+* 2023
+  *11/2023: Presentation in "Transatlantic Perspectives on the Global Energy Transition" at MIT, CEEPR in Boston, MA, USA. Topic: Cash windfall and Clean Investment.
+  *10/2023: Presentation at Young Energy Economists and Engineers Seminar, Nürnberg, Germany; Topic: Cash windfall and firm behavior. (Peer-reviewed)
+  *06/2023: Presentation at German Institute for Economic Research (DIW Berlin), Berlin, Germany: Topic Temperature Shocks and Cash Windfall - Evidence from the power market
   
 Teaching
 ======
