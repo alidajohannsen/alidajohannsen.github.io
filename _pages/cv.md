@@ -34,9 +34,7 @@ Skills
 
 Working Papers
 ======
-  #<ul>{% for post in site.publications reversed %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+
 *Alida Johannsen, Sebastian Schwenen. Temperature Shocks, Cash Windfalls and Efficiency. (in progress)
 *Alida Johannsen, Sebastian Schwenen. Where to plant power plants? Nodal pricing and locational investment decision. (in progress)
 *Chloe Le Coq, Alida Johannsen, Sebastian Schwenen. Nuclear and Renewables: Friends or Foes? (in progress)
@@ -45,9 +43,6 @@ Working Papers
   
 Talks
 ======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
 
 *2025
 11/2024: Presentation at 41st USAEE Conference, Baton Rouge, LA, USA. Topic: Nodal Pricing and Location Investment Decision. (Peer-reviewed)
