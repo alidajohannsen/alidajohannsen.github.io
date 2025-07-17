@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Energy Markets 2 Exercise"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master Course"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "TUM, School of Management"
+date: Since 2023
+location: "Summer Semester"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In cooperation with Stadtwerke München (SWM). 
 
 Heading 1
 ======
