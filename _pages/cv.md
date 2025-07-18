@@ -45,8 +45,7 @@ Talks
 ======
 
 * 2025
-  * 11/2024: Presentation at 41st USAEE Conference, Baton Rouge, LA, USA. Topic: Nodal Pricing and Location Investment Decision. (Peer-reviewed)
-  * 02/2024: Presentation at TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany. Topic: Cash windfall and Clean Investment
+  * 03/2025: Presentation at Doctoral Seminar, Centre de Recherche en Économie et Droit (CRED), Université-Paris Panthéon-Assas, Paris
 * 2024
   * 11/2024: Presentation at 41st USAEE Conference, Baton Rouge, LA, USA. Topic: Nodal Pricing and Location Investment Decision. (Peer-reviewed)
   * 02/2024: Presentation at TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany. Topic: Cash windfall and Clean Investment
