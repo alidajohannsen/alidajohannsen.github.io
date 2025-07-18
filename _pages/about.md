@@ -13,8 +13,6 @@ My research investigates topics related to investment behavior and operational m
 
 Overall, my research interests lie in the field of empirical microeconomics applied to energy and environmental economics. Other interests include decarbonization of the economy, climate policy, and economic development.
 
-<br><img src='/images/munich_eibsee.jpeg'><br>
-
 <p align="center">
   <img src="/images/munich_eibsee.jpeg" alt="Eibsee" width="80%">
 </p>
