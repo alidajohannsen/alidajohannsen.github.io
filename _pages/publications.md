@@ -13,15 +13,43 @@ author_profile: true
 {% endfor %}
 
 **Temperature Shocks, Cash Windfalls and Efficiency**  
-Alida Johannsen and Sebastian Schwenen.  
+**Alida Johannsen** and Sebastian Schwenen.  
 *Working Paper 2025*  
-#[[paper](https://arxiv.org/abs/2507.00170)][[code CanopyRS](https://github.com/hugobaudchon/CanopyRS)][[code geodataset](https://github.com/hugobaudchon/geodataset)][[dataset](https://huggingface.co/datasets/CanopyRS/SelvaBox)]  
 
+<!--
+**Temperature Shocks, Cash Windfalls and Efficiency**  
+**Alida Johannsen** and Sebastian Schwenen.  
+*Working Paper 2025*  
+#[[paper](https://arxiv.org/abs/2507.00170)][[code CanopyRS](https://github.com/hugobaudchon/CanopyRS)][[code geodataset](https://github.com/hugobaudchon/geodataset)][[dataset](https://huggingface.co/datasets/CanopyRS/SelvaBox)]
+-->
+
+**Where to plant power plants? Nodal pricing and locational investment choices**  
+**Alida Johannsen** and Sebastian Schwenen.  
+*Working in progress* 
+
+**Nuclear and Renewables: Firends or Foes?**  
+Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.  
+*Working in progress* 
 
 ---
 
 ## Talks
 
-**Event name**  
-**Title**  
-*Location, Date*  
+**Doctoral Seminar, Centre de Recherche en Économie et Droit (CRED), Université-Paris Panthéon-Assas, Paris, March 2025**  
+*Invited talk: Nuclear and Renewables: Firends or Foes?*  
+
+**41st USAEE Conference, Baton Rouge, LA, USA, November 2024**  
+*Conference: Nodal Pricing and Locational Investment Decisions*  
+
+** TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany, February 2024**  
+*Invited talk: Cash Windfall and Clean Investment*  
+
+**Workshop "Transatlantic Perspectives on the Global Energy Transition" at MIT, CEEPR in Boston, MA, USA, November 2023**  
+*Invited talk: Cash Windfall and Clean Investment* 
+
+**Young Energy Economists and Engineers Seminar, Nürnberg, Germany; Topic, October 2023**  
+*Conference: Cash Windfall and Clean Investment*  
+
+**Workshop at German Institute for Economic Research (DIW Berlin), Berlin, Germany, June 2023**  
+*Invited talk: Temperature Shocks and Cash Windfall* 
+
