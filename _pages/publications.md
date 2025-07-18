@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -25,11 +25,11 @@ author_profile: true
 
 **Where to plant power plants? Nodal pricing and locational investment choices**  
 **Alida Johannsen** and Sebastian Schwenen.  
-*Working in progress* 
+*Work in progress* 
 
 **Nuclear and Renewables: Firends or Foes?**  
 Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.  
-*Working in progress* 
+*Work in progress* 
 
 ---
 
@@ -41,15 +41,15 @@ Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.
 **41st USAEE Conference, Baton Rouge, LA, USA, November 2024**  
 *Conference: Nodal Pricing and Locational Investment Decisions*  
 
-** TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany, February 2024**  
-*Invited talk: Cash Windfall and Clean Investment*  
+**TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany, February 2024**  
+*Invited talk: Temperature Shocks, Cash Windfalls and Clean Investment*  
 
 **Workshop "Transatlantic Perspectives on the Global Energy Transition" at MIT, CEEPR in Boston, MA, USA, November 2023**  
-*Invited talk: Cash Windfall and Clean Investment* 
+*Invited talk: Cash Windfalls and Clean Investment* 
 
-**Young Energy Economists and Engineers Seminar, Nürnberg, Germany; Topic, October 2023**  
-*Conference: Cash Windfall and Clean Investment*  
+**Young Energy Economists and Engineers Seminar, Nürnberg, Germany, October 2023**  
+*Conference: Cash Windfalls and Clean Investment*  
 
 **Workshop at German Institute for Economic Research (DIW Berlin), Berlin, Germany, June 2023**  
-*Invited talk: Temperature Shocks and Cash Windfall* 
+*Invited talk: Temperature Shocks and Cash Windfalls* 
 
