@@ -15,6 +15,10 @@ Overall, my research interests lie in the field of empirical microeconomics appl
 
 <br><img src='/images/munich_eibsee.jpeg'><br>
 
+<p align="center">
+  <img src="/images/munich_eibsee.jpeg" alt="Eibsee" width="80%">
+</p>
+
 Interests
 ======
 - Energy Economics
