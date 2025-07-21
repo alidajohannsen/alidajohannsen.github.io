@@ -44,7 +44,7 @@ Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.
 **TUM-ifo Workshop on Energy and Environmental Economics, Raitenhaslach, Germany, February 2024**  
 *Invited talk: Temperature Shocks, Cash Windfalls and Clean Investment*  
 
-**Workshop "Transatlantic Perspectives on the Global Energy Transition" at MIT, CEEPR in Boston, MA, USA, November 2023**  
+**Workshop "Transatlantic Perspectives on the Global Energy Transition" at MIT - Massachusetts Institute of Technology, CEEPR in Boston, MA, USA, November 2023**  
 *Invited talk: Cash Windfalls and Clean Investment* 
 
 **Young Energy Economists and Engineers Seminar, Nürnberg, Germany, October 2023**  
