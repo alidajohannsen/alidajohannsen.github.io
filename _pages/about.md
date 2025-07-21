@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Doctoral candidate in Energy Economics at the Center for Energy Markets at the Technical University of Munich. I study firm behavior and the role of power market design in the energy transition. 
+Welcome! I am a Doctoral candidate in Energy Economics at the Center for Energy Markets at the Technical University of Munich. 
 
-My research investigates topics related to investment behavior and operational management in the transitioning power market, with a particular focus on clean technology investments and locational pricing. Previously, I completed my Economics undergraduate degree at Ludwig-Maximilians-University and a Double Degree Master of Science in Economic Development at the University of Groningen and Lund University. 
+I study firm behavior and the role of power market design in the energy transition. My research investigates topics related to investment behavior and operational management in the transitioning power market, with a particular focus on clean technology investments and locational pricing. 
+
+Previously, I completed my Economics undergraduate degree at Ludwig-Maximilians-University and a Double Degree Master of Science in Economic Development at the University of Groningen and Lund University. 
 
 Overall, my research interests lie in the field of empirical microeconomics applied to energy and environmental economics. Other interests include decarbonization of the economy, climate policy, and economic development.
 
