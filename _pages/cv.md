@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,10 +18,10 @@ Education
 
 Work Experience
 ======
-* 2025,  Research Visit at University Paris Panthéon-Assas (Dept. of Economics & CRED) 
-* 2022-present, Scientific employee at TUM School of Management, Center for Energy Markets
+* 2025,  Research Visit at University Paris Panthéon-Assas, Dept. of Economics & Centre de recherche en économie et droit (CRED)
+* 2022-present, Scientific employee at Technical University of Munich, School of Management, Center for Energy Markets
 * 2020, Economic Research Intern at Munich Re
-* 2018-2019, Research Assistant at Ludwig-Maximilians-University, Department of Economics: Organizations and Firms, Personnel Economics, Contract Theory, Applied Microeconomics 
+* 2018-2019, Research Assistant at Ludwig-Maximilians-University, Dept. of Economics: Organizations and Firms, Personnel Economics, Contract Theory, Applied Microeconomics 
   
 Data Analytics/ Software Skills
 ======
