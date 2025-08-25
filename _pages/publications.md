@@ -14,7 +14,7 @@ author_profile: true
 
 **Temperature Shocks, Cash Windfalls and Efficiency**  
 **Alida Johannsen** and Sebastian Schwenen.  
-*Working Paper 2025*  
+*Working Paper 2025. Available at http://dx.doi.org/10.2139/ssrn.5371960*
 
 <!--
 **Temperature Shocks, Cash Windfalls and Efficiency**  
