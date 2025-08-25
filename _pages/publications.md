@@ -27,7 +27,7 @@ author_profile: true
 **Alida Johannsen** and Sebastian Schwenen.  
 *Work in progress* 
 
-**Nuclear and Renewables: Firends or Foes?**  
+**Nuclear and Renewables: Friends or Foes?**  
 Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.  
 *Work in progress* 
 
