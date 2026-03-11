@@ -35,6 +35,9 @@ Chloe Le Coq, **Alida Johannsen** and Sebastian Schwenen.
 
 ## Talks
 
+**FAEE PhD Student Workshop 2025, University Grenoble-Alpes, November 2025**  
+*Seminar talk: Nuclear and Renewables: Firends or Foes?*  
+
 **Doctoral Seminar, Centre de Recherche en Économie et Droit (CRED), Université-Paris Panthéon-Assas, Paris, March 2025**  
 *Invited talk: Nuclear and Renewables: Firends or Foes?*  
 
