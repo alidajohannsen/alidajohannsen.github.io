@@ -28,9 +28,7 @@ Interests
 
 This year we might cross paths here
 ======
-- 01.09.-30.11.2025 Paris University 2, Paris
-- 30.09.2025 DIW Climate Policy - Research in Action Day, Berlin
-- 12/13.11.2025 - F-AEE PhD Students Workshop and Awards 2025, Grenoble
+- 23.04.2026 CESifo Junior Workshop on Energy and Climate Economics 2026, Munich
 
 Education
 ======
