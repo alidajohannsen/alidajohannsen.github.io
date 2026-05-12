@@ -29,6 +29,7 @@ Interests
 This year we might cross paths here
 ======
 - 23.04.2026 CESifo Junior Workshop on Energy and Climate Economics 2026, Munich
+- 22.06.-24.06.2026 EEM'26 Trondheim, Norway
 
 Education
 ======
